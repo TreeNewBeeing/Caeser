@@ -1,0 +1,9 @@
+
+To compile: javac –cp “PATH of javafx” UI.java
+To run: java –cp “PATH of javafx” UI
+
+
+I am not sure the exact path of javafx. Just make sure it can only run with javafx environment.
+
+the second kinds of encoding and decoding can just encode and decode lowercase.All Upper case char will be replaced ‘a’ as expected.
+
